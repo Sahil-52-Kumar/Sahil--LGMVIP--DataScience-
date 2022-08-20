@@ -13,5 +13,3 @@ I used Computer Vision to convert a photo to a digital pencil sketch.
 Task : Exploratory Data Analysis on Dataset - Terrorism (Level: Intermediate | Task 1)
 I performed Exploratory Data Analysis on Global Terrorism Dataset and found some Insightful Information.
 
-Task : Prediction using Decision Tree Algorithm (Level: Intermediate | Task 2)
-I used Decision Tree Algorithm on Iris dataset and visualized it.
